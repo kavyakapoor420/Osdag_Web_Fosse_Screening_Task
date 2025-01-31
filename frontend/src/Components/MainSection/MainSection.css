@@ -1,0 +1,17 @@
+.mainTitle{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.mainTitle img:nth-child(1){
+    padding-top: 7rem;
+    padding-left: 2rem;
+}
+.mainTitle .element{
+    display: flex;
+    flex-direction: row;
+    gap: 33rem;
+    align-items:center;
+    align-content: center;
+    margin-top: 60px;
+}

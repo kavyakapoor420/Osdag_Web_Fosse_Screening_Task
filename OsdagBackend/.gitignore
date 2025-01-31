@@ -1,0 +1,19 @@
+# Python & Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+env/
+instance/
+*.pid
+*.swp
+.idea/
+.vscode/
+migrations/  # If you don't want to push migrations (optional)
